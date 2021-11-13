@@ -1,0 +1,14 @@
+body{
+    background-color: orange;
+}
+h1{
+    text-transform: uppercase;
+    
+}
+img{
+    height: 20%;
+    width: 20%;
+}
+div{
+    border: 20rem;
+}
